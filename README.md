@@ -1,6 +1,6 @@
 # Demo-Transaction-API-jmeter
 # Objectives
-D-money website is an e-commerce site. This tests was to ensure that the Transaction API performs correctly under various conditions without applying any load. The tests focused on verifying the functionality, error handling, and correctness of the API responses. 
+D-money is an e-commerce site that relies on a robust Transaction API for handling payments and transactions. These tests were conducted to ensure that the Transaction API performs correctly under various conditions without applying any load. The focus was on verifying functionality, error handling, and the correctness of API responses.
 # Prerequisites
 * JDK (Latest LTS)
 * Set environment for java JAVA-HOME
@@ -24,7 +24,7 @@ To generate the report in Non-GUI mode, execute the test using the below command
 For both options, the output folder contains the generated report in HTML format at the end of the test.
 # Tests Conducted
 ## API Test
-The API Test was conducted to validate the functionality of the Transaction API, focusing on a series of transactions involving an admin, system, agent, customer, and merchant.
+The API Test was conducted to validate the functionality of the Transaction API, focusing on a series of transactions involving an admin, system, agent, customer, and merchant. The scenarios tested included creating accounts, depositing funds, transferring funds, checking balances, withdrawing funds, and making payments.
 # Results 
 ## Screenshots
 ### API JMeter 
