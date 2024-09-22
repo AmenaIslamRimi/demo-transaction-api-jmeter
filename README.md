@@ -1,4 +1,4 @@
-# Demo-Transaction-API-jmeter
+# Dmoney-Transaction-API-jmeter
 # Objectives
 D-money is an e-commerce site that relies on a robust Transaction API for handling payments and transactions. These tests were conducted to ensure that the Transaction API performs correctly under various conditions without applying any load. The focus was on verifying functionality, error handling, and the correctness of API responses.
 # Prerequisites
